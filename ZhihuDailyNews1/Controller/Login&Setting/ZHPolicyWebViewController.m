@@ -5,7 +5,7 @@
 //  Created by lxz on 2026/2/22.
 //
 
-#import "ZHWebViewController.h"
+#import "ZHPolicyWebViewController.h"
 #import "WKWebView+AFNetworking.h"
 
 @interface ZHWebViewController ()

@@ -12,8 +12,8 @@ NS_ASSUME_NONNULL_BEGIN
 @interface ZHShareCell : UICollectionViewCell
 
 //点击分享按钮后弹出的白色弹窗内的单个cell
-@property(nonatomic,strong)UIImageView *imgView; //应用图标
-@property(nonatomic,strong)UILabel *iconLabel; //应用名称
+@property(nonatomic,strong)UIButton *shareButton;//分享按钮
+@property(nonatomic,strong)UILabel *iconLabel;//图标名称
 
 -(void)updateWithData:(NSDictionary *)data; //赋值方法
 

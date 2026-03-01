@@ -8,7 +8,7 @@
 #import "ZHLoginViewController.h"
 #import "Masonry.h" //布局
 #import "SettingViewController.h" //设置vc
-#import "ZHWebViewController.h" //协议vc
+#import "ZHPolicyWebViewController.h" //协议vc
 
 @interface ZHLoginViewController ()
 
